@@ -1,0 +1,15 @@
+{
+  "required": false,
+  "package": "dev.vanta.client.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "LightTextureMixin",
+    "LowFireMixin",
+    "FirstPersonItemMixin",
+    "BoatMapMixin",
+    "NoPumpkinBlurMixin",
+    "NightVisionMixin",
+    "FogMixin"
+  ],
+  "injectors": { "defaultRequire": 0 }
+}
